@@ -29,7 +29,7 @@ export default function Header() {
         <a href="#top" className="brand">
           {/* Logo extracted from the original inline base64 into /public/logo.jpg */}
           <Image
-            src="/logo.jpg"
+            src="/logo.png"
             alt="Northern Access Floors Ltd"
             width={2242}
             height={624}

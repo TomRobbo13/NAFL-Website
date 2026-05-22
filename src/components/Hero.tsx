@@ -7,16 +7,6 @@ export default function Hero() {
       <div className="wrap">
         <div className="hero-copy reveal">
           <span className="eyebrow">Raised Access Flooring Specialists</span>
-          <div className="hero-logo">
-            <Image
-              src="/logo.jpg"
-              alt="Northern Access Floors Ltd"
-              width={2242}
-              height={624}
-              priority
-              style={{ width: 680, maxWidth: "100%", height: "auto" }}
-            />
-          </div>
           <p className="lead">
             Leading specialists in new and existing raised access flooring across
             Northern England and the Midlands — backed by over 20 years of
